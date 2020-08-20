@@ -1,0 +1,32 @@
+.navbar-brand{
+	font-family: 'Aguafina Script';
+}
+h1{
+	color: #0A5C27;
+	font-size: 50px;
+}
+h6{
+	padding-right: 35px;
+	font-family: sans-serif;
+}
+#sign{
+	padding-top: 30px
+	/*padding: 15px;*/
+}
+body{
+	background-color: #EAEDED;
+}
+
+.figure{
+	padding-left: 35px;
+
+}
+.card{
+	padding: 20px;
+}
+.card-deck{
+	padding: 20px;
+}
+/*.carousel-inner{
+	padding-top: 20px;
+}*/
